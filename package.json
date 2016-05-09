@@ -1,6 +1,6 @@
 {
-  "name": "engine.io-parser",
-  "description": "Parser for the client for the realtime Engine",
+  "name": "react-native-engine.io-parser",
+  "description": "RN compatible Parser for the client for the realtime Engine",
   "version": "1.2.4",
   "homepage": "https://github.com/Automattic/engine.io-parser",
   "devDependencies": {
